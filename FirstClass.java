@@ -4,5 +4,6 @@ public class FirstClass {
         System.out.println("only branch change to be reset from release");
         System.out.println("Second rebase commit");
         System.out.println("Third rebase commit in main branch");
+        System.out.println("Fourth rebase commit in main branch");
     }
 }
